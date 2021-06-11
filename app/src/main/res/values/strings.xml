@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewAgenda</string>
+    <string name="nome">Digite o nome:</string>
+    <string name="celular">Digite o telefone:</string>
+    <string name="email">Digite o email:</string>
+    <string name="referencia">Digite a referência:</string>
+    <string name="pessoal">Pessoal</string>
+    <string name="trabalho">Trabalho</string>
+    <string name="pesquisar">Pesquise pelo nome:</string>
+    <string name="btnsalvar">Salvar</string>
+    <string name="btnexibir">Exibir Contatos</string>
+    <string name="semPesquisa">Não foi possível encontrar o cadastro.</string>
+    <string name="informacaoo">Insira as informações corretamente.</string>
+    <string name="semInformacao">Insira a informação!</string>
+</resources>
